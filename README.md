@@ -8,7 +8,7 @@ npm install 安装依赖
 
 npm run serve 运行程序 （运行程序前 先开启服务器）
 
-sever 基于nodejs express 实现的后台管理系统服务器
+sever 基于nodejs express mysql 实现的后台管理系统服务器
 
 npm install 安装依赖
 
